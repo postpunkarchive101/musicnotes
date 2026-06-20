@@ -192,6 +192,7 @@ dist
 # End of https://www.toptal.com/developers/gitignore/api/macos,node,git
 
 git_tok.txt
+couldflare_api.txt
 
 ### Wrangler ###
 .wrangler/
